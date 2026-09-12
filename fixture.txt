@@ -1,0 +1,3 @@
+STOPLIGHT_FIXTURE_BASELINE
+version=1
+state=clean
